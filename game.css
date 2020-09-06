@@ -1,0 +1,39 @@
+
+.horizontal{
+    border-width: 1px;
+    border-color: grey;
+    top: 0;
+
+}
+@media (min-width: 992px) {
+  .sider{
+    width: 160px !important;
+  
+    margin-left:20px;
+    }
+}
+@media (min-width: 1200px) {
+  .sider{
+    width: 190px !important;
+    margin-left:20px;
+     
+    }
+  
+}
+@media (min-width: 1600px) {
+  .sider{
+    width: 190px !important;
+    margin-left:20px;
+     
+    }
+  
+}
+.imagee{
+ width: 30px !important ;
+ height: 30px !important;
+ border-radius: 80% !important;
+}
+.left{
+margin-left: 20px !important;
+font-size: 20px !important;
+}
